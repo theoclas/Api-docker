@@ -1,0 +1,19 @@
+# NestJS / Node
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+
+# Certificates (Si se copian localmente)
+*.pfx
+*.cer
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker Local
+*.db
